@@ -78,6 +78,7 @@ header a:hover, footer a:hover {
   position: relative;
   height: 100vh;
   width: 100%;
+  background-image: url("bags.jpg");
   background: url("bags.jpg");
   background-position: center 65%;
   background-size: cover;

@@ -33,6 +33,7 @@ header {
   width: 100%;
   align-items: center;
   justify-content: space-between;
+  background: #3CB043;
 }
 
 .navbar input#menu-toggler {

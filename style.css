@@ -23,7 +23,7 @@ header {
   width: 100%;
   display: flex;
   justify-content: center;
-  background: #3CB043;
+  background: #333;
  }
 
 .navbar {
@@ -64,7 +64,7 @@ header {
 header a, footer a {
   margin-left: 40px;
   text-decoration: none;
-  color: #3CB043;
+  color: #fff;
   height: 100%;
   padding: 20px 0;
   display: inline-block;
